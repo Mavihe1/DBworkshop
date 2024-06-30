@@ -1,0 +1,45 @@
+JSON
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3638&clear=RR,180&session=13235940564819 (Exploring JSON Relational Duality Views in Oracle Database 23ai Free using SQL)
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3637&clear=RR,180&session=8778337354900 (Exploring JSON Relational Duality Views in Oracle Database 23ai Free with Java)
+
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3753&clear=RR,180&session=3283926786469 (Schröedinger's Document: JSON Relational Duality Views in Oracle Database 23ai)
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3634&clear=RR,180&session=8778337354900 (AutoREST with JSON Relational Duality Views in Oracle Database 23ai Free)
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=831 (Developing with JSON and SODA in Oracle Database)
+
+
+MongoDB
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3635&clear=RR,180&session=8778337354900 (SQL, JSON, and MongoDB API: Unify worlds with Oracle Database 23ai Free)
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3272&clear=RR,180&session=8778337354900 (Full Python App Development with Autonomous JSON for MongoDB Developers)
+
+
+GRAPH
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=770 (Graph Studio: Find Circular Payment Chains with Graph Queries in Autonomous Database)
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3659&clear=RR,180&session=6847464786035 (Exploring Operational Property Graphs in Oracle Database 23ai Free)
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=758&clear=RR,180&session=8778337354900 (Get started with Graph Studio on Oracle Autonomous Database)
+
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=686&clear=RR,180&session=8778337354900 (Analyze, Query and Visualize Graphs in Oracle Database)
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3195&clear=RR,180&session=8778337354900 (Working with RDF Graphs in Graph Studio)
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3711&clear=RR,180&session=8778337354900 (Use Graph Analytics to Recommend Movies)
+
+
+SPATIAL
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=736&clear=RR,180&session=8778337354900 (Work with Spatial Data in Oracle Autonomous Database)
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=800&clear=RR,180&session=8778337354900 (Introduction to Oracle Spatial Studio)
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3936&session=8778337354900 (How do I use simplified geometry and spatial index creation in Oracle Database 23ai?)
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3683&clear=RR,180&session=8778337354900 (Pinpoint suspicious financial transactions with Oracle Spatial and Python)
+
+
+VECTORS
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3928&clear=RR,180&session=8778337354900 (AI Vector Search - Using Vector Embedding Models with Python)
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3926&clear=RR,180&session=8778337354900 (AI Vector Search - Using Vector Embedding Models with Nodejs)
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3925&clear=RR,180&session=8778337354900 (AI Vector Search - Using Vector Embedding Models with JDBC)
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=1070&clear=RR,180&session=8778337354900 (Oracle AI Vector Search - Basics)
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3927&clear=RR,180&session=8778337354900 (AI Vector Search - 7 Easy Steps to Building a RAG Application using LangChain)
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3934&clear=RR,180&session=8778337354900 (AI Vector Search - Complete RAG Application using PL/SQL in Oracle Database 23ai)
+
+Data Studio
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=789&clear=RR,180&session=8778337354900 (Data Studio - Self-service tools for everyone using Oracle Autonomous Database)
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=901&clear=RR,180&session=8778337354900 (Load and update Moviestream data in Oracle ADW using Data Studio)
+
+
+LiveLabs: https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home
